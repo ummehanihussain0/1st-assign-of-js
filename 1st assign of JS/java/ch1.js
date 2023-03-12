@@ -1,0 +1,11 @@
+alert("Hello Pretty :)");
+prompt("Please Enter an email");
+prompt("Please Enter a password");
+alert("ERROR! Please Enter a valid password");
+prompt("Please Enter a password");
+alert("Welcome to JS Land...\n Happy Coding");
+alert("Welcome to JS Land...");
+alert("Happy Coding");
+alert("Hello! I can run JS through my web browser's console");
+var ch = 'JS';
+console.log(ch);
